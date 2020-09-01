@@ -1,0 +1,6 @@
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/bin/Debug/ProyectoBarco.exe
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/bin/Debug/ProyectoBarco.pdb
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/obj/x86/Debug/ProyectoBarco.csprojAssemblyReference.cache
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/obj/x86/Debug/ProyectoBarco.csproj.CoreCompileInputs.cache
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/obj/x86/Debug/ProyectoBarco.exe
+/Users/macmini/Projects/ProyectoBarco/ProyectoBarco/obj/x86/Debug/ProyectoBarco.pdb

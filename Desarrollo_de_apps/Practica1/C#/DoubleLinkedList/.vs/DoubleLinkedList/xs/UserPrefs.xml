@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{425BA85D-C069-43E4-9DED-96700736503D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoubleLinkedList/Node.cs">
+    <Files>
+      <File FileName="DoubleLinkedList/Program.cs" Line="41" Column="74" />
+      <File FileName="DoubleLinkedList/DoubleList.cs" Line="261" Column="36" />
+      <File FileName="DoubleLinkedList/Node.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DoubleLinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

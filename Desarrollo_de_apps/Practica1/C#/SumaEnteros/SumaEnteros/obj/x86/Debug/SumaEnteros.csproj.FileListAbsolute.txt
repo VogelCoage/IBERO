@@ -1,0 +1,6 @@
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/bin/Debug/SumaEnteros.exe
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/bin/Debug/SumaEnteros.pdb
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/obj/x86/Debug/SumaEnteros.csprojAssemblyReference.cache
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/obj/x86/Debug/SumaEnteros.csproj.CoreCompileInputs.cache
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/obj/x86/Debug/SumaEnteros.exe
+/Users/macmini/Projects/SumaEnteros/SumaEnteros/obj/x86/Debug/SumaEnteros.pdb

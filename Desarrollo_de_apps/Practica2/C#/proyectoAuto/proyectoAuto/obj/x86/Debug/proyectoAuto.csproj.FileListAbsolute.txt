@@ -1,0 +1,6 @@
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/obj/x86/Debug/proyectoAuto.csprojAssemblyReference.cache
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/obj/x86/Debug/proyectoAuto.csproj.CoreCompileInputs.cache
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/bin/Debug/proyectoAuto.exe
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/bin/Debug/proyectoAuto.pdb
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/obj/x86/Debug/proyectoAuto.exe
+/Users/macmini/Projects/proyectoAuto/proyectoAuto/obj/x86/Debug/proyectoAuto.pdb
