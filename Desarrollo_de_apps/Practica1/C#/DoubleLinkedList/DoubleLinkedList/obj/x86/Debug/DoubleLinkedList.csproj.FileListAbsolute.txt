@@ -1,6 +1,0 @@
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/DoubleLinkedList.exe
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/bin/Debug/DoubleLinkedList.pdb
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.csprojAssemblyReference.cache
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.csproj.CoreCompileInputs.cache
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.exe
-/Users/macmini/Projects/DoubleLinkedList/DoubleLinkedList/obj/x86/Debug/DoubleLinkedList.pdb

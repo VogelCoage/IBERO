@@ -1,6 +1,0 @@
-/Users/macmini/Projects/HolaMundo/HolaMundo/bin/Debug/HolaMundo.exe
-/Users/macmini/Projects/HolaMundo/HolaMundo/bin/Debug/HolaMundo.pdb
-/Users/macmini/Projects/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.csprojAssemblyReference.cache
-/Users/macmini/Projects/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.csproj.CoreCompileInputs.cache
-/Users/macmini/Projects/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.exe
-/Users/macmini/Projects/HolaMundo/HolaMundo/obj/x86/Debug/HolaMundo.pdb

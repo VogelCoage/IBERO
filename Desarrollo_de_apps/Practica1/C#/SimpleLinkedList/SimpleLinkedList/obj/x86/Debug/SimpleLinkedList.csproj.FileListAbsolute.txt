@@ -1,6 +1,0 @@
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/obj/x86/Debug/SimpleLinkedList.csprojAssemblyReference.cache
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/obj/x86/Debug/SimpleLinkedList.csproj.CoreCompileInputs.cache
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/bin/Debug/SimpleLinkedList.exe
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/bin/Debug/SimpleLinkedList.pdb
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/obj/x86/Debug/SimpleLinkedList.exe
-/Users/macmini/Projects/SimpleLinkedList/SimpleLinkedList/obj/x86/Debug/SimpleLinkedList.pdb

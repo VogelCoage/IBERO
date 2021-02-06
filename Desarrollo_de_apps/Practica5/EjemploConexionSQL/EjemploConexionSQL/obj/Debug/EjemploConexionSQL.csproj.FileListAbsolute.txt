@@ -1,9 +1,0 @@
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/bin/Debug/EjemploConexionSQL.exe
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/bin/Debug/EjemploConexionSQL.pdb
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/bin/Debug/System.Data.SqlClient.dll
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/bin/Debug/System.Data.SqlClient.xml
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/obj/Debug/EjemploConexionSQL.csprojAssemblyReference.cache
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/obj/Debug/EjemploConexionSQL.csproj.CoreCompileInputs.cache
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/obj/Debug/EjemploConexionSQL.csproj.CopyComplete
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/obj/Debug/EjemploConexionSQL.exe
-/Users/macmini/Projects/EjemploConexionSQL/EjemploConexionSQL/obj/Debug/EjemploConexionSQL.pdb

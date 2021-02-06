@@ -1,6 +1,0 @@
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/bin/Debug/ProyectoPersona.exe
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/bin/Debug/ProyectoPersona.pdb
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/obj/x86/Debug/ProyectoPersona.csprojAssemblyReference.cache
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/obj/x86/Debug/ProyectoPersona.csproj.CoreCompileInputs.cache
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/obj/x86/Debug/ProyectoPersona.exe
-/Users/macmini/Projects/ProyectoPersona/ProyectoPersona/obj/x86/Debug/ProyectoPersona.pdb
